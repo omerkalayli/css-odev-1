@@ -1,0 +1,32 @@
+nav{
+    text-align: center;
+    font-family: cursive;
+}    
+body, html{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+
+}   
+h1{
+    font-size: xx-large;
+    color: rgb(213, 70, 70);
+    font-family: cursive;
+} 
+h2{
+    font-size: xx-large;
+    color: aliceblue;
+    font-family: cursive;
+}        
+p{
+    color: aliceblue;
+}    
+ul{
+    color: aliceblue;
+    font-family: cursive;
+}        
+a{
+    color: aliceblue;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}      
